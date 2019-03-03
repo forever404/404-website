@@ -34,6 +34,7 @@
       </div>
     </div>
     <div style="margin-top:120px"></div>
+  <!--row 1-->
 <div style="">
   <blog style="display:inline-block"></blog>
  <div style="display:inline-block;width:20px;height:260px;"></div>
@@ -41,17 +42,20 @@
  <div style="display:inline-block;width:20px;height:260px;"></div>
 <blog2 style="display:inline-block"></blog2>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-
 </div>
+
+<div style="margin-top:40px"></div>
+
+<!--row2-->
 <div style="">
-  <blog3 style="display:inline-block"></blog>
+  <blog style="display:inline-block"></blog>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 <blog1 style="display:inline-block"></blog1>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 <blog2 style="display:inline-block"></blog2>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-
 </div>
+
 <div style="margin-top:120px"></div>
 
 
