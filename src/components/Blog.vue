@@ -8,7 +8,7 @@
       >
       <div class="card-body">
         <h5 class="card-title">dyf</h5>
-        <p class="card-text">Just for fun</p>
+        <p class="card-text">Solo</p>
         <a
           href="https://dyf.netlify.com"
           class="btn newButton"
