@@ -56,6 +56,19 @@
  <div style="display:inline-block;width:20px;height:260px;"></div>
 </div>
 
+
+<div style="margin-top:40px"></div>
+
+<!--row2-->
+<div style="">
+  <blog6 style="display:inline-block"></blog6>
+ <div style="display:inline-block;width:20px;height:260px;"></div>
+<blog3 style="display:inline-block"></blog3>
+ <div style="display:inline-block;width:20px;height:260px;"></div>
+<blog4 style="display:inline-block"></blog4>
+ <div style="display:inline-block;width:20px;height:260px;"></div>
+</div>
+
 <div style="margin-top:120px"></div>
 
 
@@ -84,6 +97,7 @@ import blog2 from "./Blog2.vue";
 import blog3 from "./Blog3.vue";
 import blog4 from "./Blog4.vue";
 import blog5 from "./Blog5.vue";
+import blog6 from "./Blog6.vue";
 export default {
   name: "HelloWorld",
   data() {
@@ -97,7 +111,8 @@ export default {
     blog2,
     blog3,
     blog4,
-    blog5
+    blog5,
+    blog6
   }
 };
 </script>
