@@ -3,14 +3,14 @@
     <div class="card" style="width: 18rem;">
       <img
         class="card-img-top"
-        src="https://avatars1.githubusercontent.com/u/23146482"
+        src="https://avatars3.githubusercontent.com/u/45532257?s=460&v=4"
         alt="Card image cap"
       >
       <div class="card-body">
-        <h5 class="card-title">sengle</h5>
+        <h5 class="card-title">dashJay</h5>
         <p class="card-text">Just for fun</p>
         <a
-          href="http://Ypixel.github.io"
+          href="https://github.com/dashjay"
           class="btn newButton"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"
@@ -44,9 +44,10 @@ export default {
   height: 100%;
 }
 
-.newButton {
-  background: #c2bfbfba;
+.newButton{
+ background: #c2bfbfba;
 }
+
 .photo {
   margin-top: 35px;
   margin-left: auto;

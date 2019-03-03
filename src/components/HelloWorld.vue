@@ -36,11 +36,11 @@
     <div style="margin-top:120px"></div>
   <!--row 1-->
 <div style="">
-  <blog style="display:inline-block"></blog>
- <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog1 style="display:inline-block"></blog1>
+  <blog1 style="display:inline-block"></blog1>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 <blog2 style="display:inline-block"></blog2>
+ <div style="display:inline-block;width:20px;height:260px;"></div>
+<blog5 style="display:inline-block"></blog5>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 </div>
 
@@ -50,9 +50,9 @@
 <div style="">
   <blog style="display:inline-block"></blog>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog1 style="display:inline-block"></blog1>
+<blog3 style="display:inline-block"></blog3>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog2 style="display:inline-block"></blog2>
+<blog4 style="display:inline-block"></blog4>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 </div>
 
@@ -82,6 +82,8 @@ import blog from "./Blog.vue";
 import blog1 from "./Blog1.vue";
 import blog2 from "./Blog2.vue";
 import blog3 from "./Blog3.vue";
+import blog4 from "./Blog4.vue";
+import blog5 from "./Blog5.vue";
 export default {
   name: "HelloWorld",
   data() {
@@ -93,7 +95,9 @@ export default {
     blog,
     blog1,
     blog2,
-    blog3
+    blog3,
+    blog4,
+    blog5
   }
 };
 </script>
