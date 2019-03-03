@@ -11,7 +11,8 @@
         <p class="card-text">Just for fun</p>
         <a
           href="http://blog.fflush.me"
-          class="btn newButton"
+          class="btn"
+          style="background: #c2bfbfba;"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"
         >My Place</a>
@@ -42,10 +43,6 @@ export default {
 
 .cardBody {
   height: 100%;
-}
-
-.newButton {
-  background: #c2bfbfba;
 }
 
 .photo {

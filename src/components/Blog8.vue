@@ -11,7 +11,8 @@
         <p class="card-text">Tough time don't last</p>
         <a
           href="https://github.com/KlausMichael0"
-          class="btn newButton"
+          class="btn "
+          style="background: #c2bfbfba;"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"
         >My Place</a>
@@ -42,10 +43,6 @@ export default {
 
 .cardBody {
   height: 100%;
-}
-
-.newButton{
- background: #c2bfbfba;
 }
 
 .photo {

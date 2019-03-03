@@ -11,7 +11,8 @@
         <p class="card-text">鳥はただ、自分が飛びたいから空</p>
         <a
           href="http://refate.github.io/"
-          class="btn newButton"
+          class="btn"          
+          style="background: #c2bfbfba;"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"
         >My Place</a>
@@ -42,10 +43,6 @@ export default {
 
 .cardBody {
   height: 100%;
-}
-
-.newButton {
-  background: #c2bfbfba;
 }
 
 .photo {

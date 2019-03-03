@@ -11,7 +11,8 @@
         <p class="card-text">Talk is cheep,show me the code</p>
         <a
           href="https://github.com/dashjay"
-          class="btn newButton"
+          class="btn"
+          style="background: #c2bfbfba;"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"
         >My Place</a>
@@ -44,9 +45,6 @@ export default {
   height: 100%;
 }
 
-.newButton{
- background: #c2bfbfba;
-}
 
 .photo {
   margin-top: 35px;
