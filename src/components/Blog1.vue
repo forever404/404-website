@@ -2,13 +2,13 @@
   <div>
 
     <div class="card" style="width: 18rem;">
-      <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/25425110" alt="Card image cap">
+      <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/20366611" alt="Card image cap">
       <div class="card-body">
-        <h5 class="card-title">dyf</h5>
+        <h5 class="card-title">marryjianjian</h5>
         <p
           class="card-text"
         >Just for fun</p>
-        <a href="https://dyf.netlify.com" class="btn btn-primary">My Place</a>
+        <a href="#" class="btn btn-primary">My Place</a>
       </div>
     </div>
   </div>

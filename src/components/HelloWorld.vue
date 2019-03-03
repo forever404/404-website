@@ -37,26 +37,35 @@
 <div style="">
   <blog style="display:inline-block"></blog>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog style="display:inline-block"></blog>
+<blog1 style="display:inline-block"></blog1>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog style="display:inline-block"></blog>
+<blog2 style="display:inline-block"></blog2>
+ <div style="display:inline-block;width:20px;height:260px;"></div>
+
+</div>
+<div style="">
+  <blog3 style="display:inline-block"></blog>
+ <div style="display:inline-block;width:20px;height:260px;"></div>
+<blog1 style="display:inline-block"></blog1>
+ <div style="display:inline-block;width:20px;height:260px;"></div>
+<blog2 style="display:inline-block"></blog2>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 
 </div>
 <div style="margin-top:120px"></div>
 
 
-    <h2>Essential Links</h2>
+    <h3>Links</h3>
     <ul>
  
       <li>
-        <a href="https://forum.vuejs.org" target="_blank">Forum</a>
+        <a href="https://github.com/forever404" target="_blank">Github</a>
       </li>
       <li>
-        <a href="https://chat.vuejs.org" target="_blank">Community Chat</a>
+        <a href="http://ctf.ever404.com" target="_blank">CTF</a>
       </li>
       <li>
-        <a href="https://twitter.com/vuejs" target="_blank">Twitter</a>
+        <a href="https://home.ever404.com" target="_blank">Home</a>
       </li>
       <br>
 
@@ -66,6 +75,9 @@
 
 <script>
 import blog from "./Blog.vue";
+import blog1 from "./Blog1.vue";
+import blog2 from "./Blog2.vue";
+import blog3 from "./Blog3.vue";
 export default {
   name: "HelloWorld",
   data() {
@@ -74,7 +86,10 @@ export default {
     };
   },
   components:{
-    blog
+    blog,
+    blog1,
+    blog2,
+    blog3
   }
 };
 </script>
@@ -96,6 +111,7 @@ li {
   margin: 0 10px;
 }
 a {
+  font-size: 20px;
   color: #42b983;
 }
 .blog {
