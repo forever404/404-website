@@ -3,14 +3,14 @@
     <div class="card" style="width: 18rem;">
       <img
         class="card-img-top"
-        src="https://avatars1.githubusercontent.com/u/25425110"
+        src="https://avatars2.githubusercontent.com/u/10203825?s=460&v=4"
         alt="Card image cap"
       >
       <div class="card-body">
-        <h5 class="card-title">dyf</h5>
-        <p class="card-text">Just for fun</p>
+        <h5 class="card-title">ssj</h5>
+        <p class="card-text">Just cracker</p>
         <a
-          href="https://dyf.netlify.com"
+          href="https://github.com/Cracke-S-J"
           class="btn newButton"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"
@@ -47,6 +47,7 @@ export default {
 .newButton{
  background: #c2bfbfba;
 }
+
 .photo {
   margin-top: 35px;
   margin-left: auto;

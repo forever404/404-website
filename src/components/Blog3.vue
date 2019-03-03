@@ -8,7 +8,7 @@
       >
       <div class="card-body">
         <h5 class="card-title">curled</h5>
-        <p class="card-text">Just for fun</p>
+        <p class="card-text">feel numb</p>
         <a
           href="https://wutongdeng.cn/"
           class="btn newButton"

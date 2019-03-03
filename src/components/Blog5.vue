@@ -8,7 +8,7 @@
       >
       <div class="card-body">
         <h5 class="card-title">refate</h5>
-        <p class="card-text">Just for fun</p>
+        <p class="card-text">鳥はただ、自分が飛びたいから空を飛ぶんだ</p>
         <a
           href="http://refate.github.io/"
           class="btn newButton"
@@ -44,8 +44,8 @@ export default {
   height: 100%;
 }
 
-.newButton{
- background: #c2bfbfba;
+.newButton {
+  background: #c2bfbfba;
 }
 
 .photo {

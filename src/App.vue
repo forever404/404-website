@@ -3,6 +3,8 @@
     <img id="logo" src="./assets/logo.png">
     <router-view/>
 
+
+  <div class="footer">© Ever404 2019 &nbsp;&nbsp; By sengle &nbsp;&nbsp; All Rights Reserved</div>
   </div>
 </template>
 

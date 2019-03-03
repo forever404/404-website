@@ -8,7 +8,7 @@
       >
       <div class="card-body">
         <h5 class="card-title">dashJay</h5>
-        <p class="card-text">Just for fun</p>
+        <p class="card-text">Talk is cheep,show me the code</p>
         <a
           href="https://github.com/dashjay"
           class="btn newButton"

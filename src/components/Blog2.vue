@@ -8,7 +8,7 @@
       >
       <div class="card-body">
         <h5 class="card-title">sengle</h5>
-        <p class="card-text">Just for fun</p>
+        <p class="card-text">Exploring</p>
         <a
           href="http://Ypixel.github.io"
           class="btn newButton"

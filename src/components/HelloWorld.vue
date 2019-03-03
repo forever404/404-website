@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     <div>
-    <h1>{{ msg }}</h1>
     <div style="margin-bottom:50px;"></div>
       <div class="container">
         <div id="demo" class="carousel slide" data-ride="carousel">
@@ -32,6 +31,8 @@
           </a>
         </div>
       </div>
+      <div style="margin-top:40px;"></div>
+    <h1>{{ msg }}</h1>
     </div>
     <div style="margin-top:120px"></div>
   <!--row 1-->
@@ -59,13 +60,13 @@
 
 <div style="margin-top:40px"></div>
 
-<!--row2-->
+<!--row3-->
 <div style="">
   <blog6 style="display:inline-block"></blog6>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog3 style="display:inline-block"></blog3>
+<blog7 style="display:inline-block"></blog7>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog4 style="display:inline-block"></blog4>
+<blog7 style="display:inline-block"></blog7>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 </div>
 
@@ -98,6 +99,7 @@ import blog3 from "./Blog3.vue";
 import blog4 from "./Blog4.vue";
 import blog5 from "./Blog5.vue";
 import blog6 from "./Blog6.vue";
+import blog7 from "./Blog7.vue";
 export default {
   name: "HelloWorld",
   data() {
@@ -112,7 +114,8 @@ export default {
     blog3,
     blog4,
     blog5,
-    blog6
+    blog6,
+    blog7
   }
 };
 </script>

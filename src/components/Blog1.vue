@@ -10,7 +10,7 @@
         <h5 class="card-title">marryjianjian</h5>
         <p class="card-text">Just for fun</p>
         <a
-          href="#"
+          href="http://blog.fflush.me"
           class="btn newButton"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"
