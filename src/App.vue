@@ -4,7 +4,7 @@
     <router-view/>
 
 
-  <div class="footer">© Ever404 2019 &nbsp;&nbsp; By sengle &nbsp;&nbsp; All Rights Reserved</div>
+  <div class="footer">© Ever404 2019 &nbsp;&nbsp; By Ever404 &nbsp;&nbsp; All Rights Reserved</div>
   </div>
 </template>
 
