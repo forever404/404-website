@@ -3,14 +3,14 @@
     <div class="card" style="width: 18rem;">
       <img
         class="card-img-top"
-        src="https://avatars3.githubusercontent.com/u/10203825?s=400&v=4"
+        src="https://avatars0.githubusercontent.com/u/43673567"
         alt="Card image cap"
       >
       <div class="card-body">
-        <h5 class="card-title">ssj</h5>
-        <p class="card-text">Cracke the world</p>
+        <h5 class="card-title">帅子</h5>
+        <p class="card-text">Tough time don't last</p>
         <a
-          href="https://github.com/Cracke-S-J"
+          href="https://github.com/KlausMichael0"
           class="btn newButton"
           onmouseover=" this.style.background='grey'"
           onmouseout=" this.style.background='#c2bfbfba'"

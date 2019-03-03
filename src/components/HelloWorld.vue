@@ -66,7 +66,7 @@
  <div style="display:inline-block;width:20px;height:260px;"></div>
 <blog7 style="display:inline-block"></blog7>
  <div style="display:inline-block;width:20px;height:260px;"></div>
-<blog7 style="display:inline-block"></blog7>
+<blog8 style="display:inline-block"></blog8>
  <div style="display:inline-block;width:20px;height:260px;"></div>
 </div>
 
@@ -100,6 +100,7 @@ import blog4 from "./Blog4.vue";
 import blog5 from "./Blog5.vue";
 import blog6 from "./Blog6.vue";
 import blog7 from "./Blog7.vue";
+import blog8 from "./Blog8.vue";
 export default {
   name: "HelloWorld",
   data() {
@@ -115,7 +116,8 @@ export default {
     blog4,
     blog5,
     blog6,
-    blog7
+    blog7,
+    blog8
   }
 };
 </script>
